@@ -8,7 +8,7 @@ on:
         required: true
         default: 'IrenkFNG'
       agent_description:
-        description: 'Cuan'
+        description: 'IrenkFNG'
         required: true
         default: 'IrenkFNG AI Agent'
 
